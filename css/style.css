@@ -75,7 +75,7 @@ h1 {
 }
 
 .lead-text {
-  font-size: 20px !important;
+  font-size: 26px !important;
   color: white;
 }
 
@@ -157,7 +157,7 @@ header .overlay {
 }
 
 .quote-title {
-  font-size: 20px;
+  font-size: 26px;
   display: inline-block;
   padding-top: 20px;
   padding-bottom: 3px;
@@ -166,24 +166,24 @@ header .overlay {
 }
 
 .quote-text-container {
-  padding-top: 20px;
+  padding-top: 26px;
   font-style: italic;
 }
 
 .title {
-  font-size: 26px !important;
+  font-size: 30px !important;
   color: white;
   margin-top: -4%;
 }
 
 .lead-text {
-  font-size: 20px !important;
+  font-size: 26px !important;
   margin-top: 4%;
   margin-bottom: -6%;
 }
 
 .quote-container {
-  font-size: 20px;
+  font-size: 26px;
   color: white;
   width: -webkit-fit-content;
   width: -moz-fit-content;
@@ -196,6 +196,7 @@ header .overlay {
   float: right;
   margin-top: -4%;
   font-style: italic;
+  font-size: 20px !important;
 }
 
 .r-quote {
