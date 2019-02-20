@@ -102,7 +102,7 @@ header video {
   top: 50%;
   left: 50%;
   min-width: 30%;
-  min-height: 85%;
+  min-height: 75%;
   width: auto;
   height: auto;
   z-index: 0;
@@ -146,7 +146,7 @@ header .overlay {
 
 .learn-more {
   position: relative;
-  top: -128px;
+  top: -118px;
   z-index: 9999;
   color: white;
   background-color: #00AEEF;
