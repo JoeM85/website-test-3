@@ -6,8 +6,15 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #005D81;
+  background-color: #0E0E0E;
   width: 100%;
+}
+
+.diff {
+  color: white;
+  font-size: 38px;
+  margin-top: -5%;
+  margin-bottom: 3.5%;
 }
 
 .news-container p {
@@ -21,7 +28,7 @@ body {
 }
 
 .header {
-  background-color: white !important;
+  background-color: black !important;
   position: relative;
   z-index: 999;
   height: 100px;
@@ -183,7 +190,7 @@ header .overlay {
 }
 
 .quote-container {
-  font-size: 26px;
+  font-size: 22px;
   color: white;
   width: -webkit-fit-content;
   width: -moz-fit-content;
